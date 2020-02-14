@@ -21,6 +21,14 @@ class App extends Component {
      let ninjas = this.state.ninjas.filter(el=> el.id !== id)
      this.setState({ninjas:ninjas})
   }
+  componentDidMount(){
+    console.log('mounted')
+  }
+  componentDidUpdate(prevProps, prevState){
+    console.log('update')
+    console.log(prevProps)
+    console.log(prevState)
+  }
   render() {
     return (
       <div className="App">
