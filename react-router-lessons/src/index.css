@@ -1,0 +1,11 @@
+.home img {
+    position:absolute;
+    top:23px;
+    left:-42px;
+    opacity:.95;
+    height:90%;
+}
+.home{
+    overflow: hidden;
+    padding-left:80px;
+}
