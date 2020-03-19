@@ -1,4 +1,4 @@
-# react-redux-refreshement
+# to do list
 little and very basic todo list, but todo list was not the point. <br/>
 idea behind this project was to brush up my knowledge of react, redux. <br />
 https://grzesiekkozdroj.github.io/to-do-list-react-redux/ <br/>
